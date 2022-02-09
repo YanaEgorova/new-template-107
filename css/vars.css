@@ -1,0 +1,23 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #000;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #EDEEE9;
+  --second-brand-color: #575759;
+  --third-brand-color: #222;
+  --fourth-brand-color: #3e3e40;
+  --fifth-brand-color: #c5c5c5;
+
+  --main-font:  'Open Sans';
+  --title-font:  'Open Sans ExtraBold';
+  --main-title-font: 'Georgia';
+
+  font-size: 62.5%;
+}
